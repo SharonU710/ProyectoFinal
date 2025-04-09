@@ -1,0 +1,89 @@
+ALIMENTICIO,A001,Leche,20,Lácteos,Proveedor1,1111111111,2025-01-01,
+ALIMENTICIO,A002,Pan,15,Panadería,Proveedor2,2222222222,2024-12-10,
+ALIMENTICIO,A003,Queso,30,Lácteos,Proveedor1,1111111111,2025-06-15,
+ALIMENTICIO,A004,Yogurt,25,Lácteos,Proveedor3,3333333333,2024-11-05,
+ALIMENTICIO,A005,Arroz,50,Granos,Proveedor4,4444444444,2026-01-01,
+ALIMENTICIO,A006,Azúcar,40,Granos,Proveedor4,4444444444,2026-03-10,
+ALIMENTICIO,A007,Sal,60,Granos,Proveedor5,5555555555,2025-09-12,
+ALIMENTICIO,A008,Pasta,22,Granos,Proveedor5,5555555555,2026-04-20,
+ALIMENTICIO,A009,Avena,10,Granos,Proveedor6,6666666666,2025-08-08,
+ALIMENTICIO,A010,Harina,18,Granos,Proveedor6,6666666666,2025-12-01,
+ELECTRONICO,E001,Mouse,50,Computo,TechCorp,1234567890,12,
+ELECTRONICO,E002,Teclado,35,Computo,TechCorp,1234567890,24,
+ELECTRONICO,E003,Monitor,20,Electrónica,DisplayTech,2222222222,18,
+ELECTRONICO,E004,Impresora,10,Oficina,OfficeSupplies,3333333333,12,
+ELECTRONICO,E005,Router,15,Redes,NetLink,4444444444,24,
+ELECTRONICO,E006,Webcam,25,Computo,VisionTech,5555555555,6,
+ELECTRONICO,E007,Laptop,8,Computo,TechCorp,1234567890,36,
+ELECTRONICO,E008,Proyector,5,Electrónica,DisplayTech,2222222222,18,
+ELECTRONICO,E009,Disco SSD,40,Almacenamiento,DataMax,6666666666,12,
+ELECTRONICO,E010,USB,100,Almacenamiento,DataMax,6666666666,12,
+MASCOTA_ALIMENTICIO,M001,Alimento Perro,30,Mascotas,PetCo,7777777777,2025-05-01,Perro
+MASCOTA_ALIMENTICIO,M002,Alimento Gato,25,Mascotas,PetWorld,8888888888,2025-06-01,Gato
+MASCOTA_ALIMENTICIO,M003,Galletas Perro,18,Mascotas,PetFood,9999999999,2024-10-10,Perro
+MASCOTA_ALIMENTICIO,M004,Pescado Seco,12,Mascotas,OceanPets,1111222233,2025-09-09,Gato
+MASCOTA_ALIMENTICIO,M005,Comida Conejo,20,Mascotas,BunnyStore,1234432112,2025-08-01,Conejo
+MASCOTA_ALIMENTICIO,M006,Pienso Tortuga,14,Mascotas,ReptoFood,8765432190,2025-12-12,Tortuga
+MASCOTA_ALIMENTICIO,M007,Comida Hámster,19,Mascotas,SmallPetCo,6543210987,2025-07-07,Hámster
+MASCOTA_ALIMENTICIO,M008,Comida Pájaro,17,Mascotas,BirdZone,5647382910,2025-06-30,Pájaro
+MASCOTA_ALIMENTICIO,M009,Croquetas Perro,23,Mascotas,PetCo,7777777777,2025-03-15,Perro
+MASCOTA_ALIMENTICIO,M010,Snacks Gato,21,Mascotas,PetWorld,8888888888,2024-12-25,Gato
+MASCOTA_ELECTRONICO,ME001,Collar GPS,10,Mascotas,TechPets,2345678901,12,Perro
+MASCOTA_ELECTRONICO,ME002,Juguete Inteligente,12,Mascotas,SmartPet,3456789012,18,Gato
+MASCOTA_ELECTRONICO,ME003,Comedero Automático,15,Mascotas,AutoFeed,4567890123,24,Perro
+MASCOTA_ELECTRONICO,ME004,Bebedero Automático,13,Mascotas,AutoFeed,4567890123,24,Gato
+MASCOTA_ELECTRONICO,ME005,Dispositivo Rastreo,8,Mascotas,PetTrack,5678901234,12,Perro
+MASCOTA_ELECTRONICO,ME006,Juguete Luz LED,9,Mascotas,FunPets,6789012345,6,Gato
+MASCOTA_ELECTRONICO,ME007,Dispensador Comida,14,Mascotas,AutoFeed,4567890123,24,Conejo
+MASCOTA_ELECTRONICO,ME008,Cámara Mascota,11,Mascotas,PetCam,7890123456,18,Perro
+MASCOTA_ELECTRONICO,ME009,Luz Nocturna,10,Mascotas,PetLight,8901234567,6,Gato
+MASCOTA_ELECTRONICO,ME010,Juguete Sonido,15,Mascotas,NoiseFun,9012345678,6,Hámster
+MASCOTA_GENERAL,MG001,Hueso Juguete,20,Mascotas,PetFun,1111222233,Perro,
+MASCOTA_GENERAL,MG002,Rascador Gato,15,Mascotas,FelineWorld,8888888888,Gato,
+MASCOTA_GENERAL,MG003,Cepillo Pelo,25,Mascotas,GroomPets,5555555555,Perro,
+MASCOTA_GENERAL,MG004,Arena Higiénica,30,Mascotas,CatStuff,9999999999,Gato,
+MASCOTA_GENERAL,MG005,Bolso Transporte,12,Mascotas,PetTravel,1234432112,Conejo,
+MASCOTA_GENERAL,MG006,Juguete Bola,18,Mascotas,PlayPet,6543210987,Gato,
+MASCOTA_GENERAL,MG007,Cama Mascota,10,Mascotas,ComfortPet,1111222233,Perro,
+MASCOTA_GENERAL,MG008,Espejo Aves,14,Mascotas,BirdZone,5647382910,Pájaro,
+MASCOTA_GENERAL,MG009,Túnel Roedor,16,Mascotas,RodentFun,4444555566,Hámster,
+MASCOTA_GENERAL,MG010,Peine Mascota,22,Mascotas,GroomPets,5555555555,Gato,
+CONSTRUCCION,C001,Taladro,10,Construcción,ToolsCorp,4444333322,24,true
+CONSTRUCCION,C002,Martillo Eléctrico,15,Construcción,BuildTools,5555666677,12,true
+CONSTRUCCION,C003,Sierra Circular,8,Construcción,CutMaster,6666777788,24,true
+CONSTRUCCION,C004,Lijadora,5,Construcción,FinishPro,7777888899,18,false
+CONSTRUCCION,C005,Atornillador,12,Construcción,ScrewMax,8888999900,12,false
+CONSTRUCCION,C006,Pulidora,7,Construcción,ShinyTools,9999000011,18,false
+CONSTRUCCION,C007,Cortadora Azulejos,6,Construcción,CeramiCut,1212121212,24,true
+CONSTRUCCION,C008,Taladro Inalámbrico,9,Construcción,PowerBuild,3434343434,24,true
+CONSTRUCCION,C009,Cortadora Hierro,4,Construcción,IronTools,5656565656,36,true
+CONSTRUCCION,C010,Multiherramienta,14,Construcción,VersaPro,7878787878,12,false
+JUGUETERIA,J001,Osito Peluche,30,Juguetes,ToysInc,9998887777,6,3
+JUGUETERIA,J002,Pistola Agua,25,Juguetes,ToysInc,9998887777,6,6
+JUGUETERIA,J003,Muñeca,20,Juguetes,ToysInc,9998887777,6,4
+JUGUETERIA,J004,Rompecabezas,15,Juguetes,FunGames,8887776666,12,8
+JUGUETERIA,J005,Carrito Control,10,Juguetes,TechToys,7776665555,12,7
+JUGUETERIA,J006,LEGO Bloques,18,Juguetes,BlockWorld,6665554444,12,6
+JUGUETERIA,J007,Avión de Juguete,12,Juguetes,FlyToys,5554443333,6,5
+JUGUETERIA,J008,Peluche Dinosaurio,22,Juguetes,ToysInc,9998887777,6,3
+JUGUETERIA,J009,Juego Mesa,14,Juguetes,BoardGames,4443332222,12,10
+JUGUETERIA,J010,Cubo Rubik,16,Juguetes,LogicToys,3332221111,12,8
+MISCELANEO,M001,Cinta Adhesiva,25,Papelería,Proveedor4,4444444444,,
+MISCELANEO,M002,Papel Bond A4,50,Papelería,Proveedor5,5555555555,,
+MISCELANEO,M003,Velas Decorativas,20,Hogar,Proveedor3,3333333333,,
+MISCELANEO,M004,Pilas AA,40,Electrónica,TechCorp,1234567890,,
+MISCELANEO,M005,Bloc de Notas,35,Papelería,Proveedor1,1111111111,,
+MISCELANEO,M006,Bolígrafos,60,Oficina,Proveedor2,2222222222,,
+MISCELANEO,M007,Marcadores Permanentes,30,Oficina,Proveedor2,2222222222,,
+MISCELANEO,M008,Resaltadores,45,Oficina,Proveedor2,2222222222,,
+MISCELANEO,M009,Tiza Blanca,28,Educación,Proveedor1,1111111111,,
+MISCELANEO,M010,Post-it,55,Oficina,Proveedor4,4444444444,,
+MISCELANEO,M001,Cinta Adhesiva,25,Papelería,Proveedor4,4444444444,,
+MISCELANEO,M002,Papel Bond A4,50,Papelería,Proveedor5,5555555555,,
+MISCELANEO,M003,Velas Decorativas,20,Hogar,Proveedor3,3333333333,,
+MISCELANEO,M004,Pilas AA,40,Electrónica,TechCorp,1234567890,,
+MISCELANEO,M005,Bloc de Notas,35,Papelería,Proveedor1,1111111111,,
+MISCELANEO,M006,Bolígrafos,60,Oficina,Proveedor2,2222222222,,
+MISCELANEO,M007,Marcadores Permanentes,30,Oficina,Proveedor2,2222222222,,
+MISCELANEO,M008,Resaltadores,45,Oficina,Proveedor2,2222222222,,
+MISCELANEO,M009,Tiza Blanca,28,Educación,Proveedor1,1111111111,,

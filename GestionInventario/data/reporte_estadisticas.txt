@@ -1,0 +1,35 @@
+REPORTE DE ESTADÍSTICAS DEL INVENTARIO
+Generado en: 2025-04-08T00:31:39.686083100
+===========================================
+
+Total de productos por tipo:
+  - ProductoMascotaElectronico: 10
+  - ProductoMascotaGeneral: 10
+  - ProductoMiscelaneo: 19
+  - ProductoAlimenticio: 10
+  - ProductoElectronico: 10
+  - ProductoMascotaAlimenticio: 10
+  - ProductoJugueteria: 10
+  - ProductoConstruccion: 10
+
+Total de stock por categoría:
+  - Granos: 200 unidades
+  - Mascotas: 498 unidades
+  - Educación: 56 unidades
+  - Computo: 118 unidades
+  - Juguetes: 182 unidades
+  - Almacenamiento: 140 unidades
+  - Electrónica: 105 unidades
+  - Redes: 15 unidades
+  - Papelería: 220 unidades
+  - Construcción: 90 unidades
+  - Lácteos: 75 unidades
+  - Panadería: 15 unidades
+  - Oficina: 335 unidades
+  - Hogar: 40 unidades
+
+Proveedor con más productos:
+  - Proveedor2 (7 productos)
+
+===========================================
+Fin del reporte.
